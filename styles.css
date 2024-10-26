@@ -1,0 +1,35 @@
+.bg-container {
+    background-color:aquamarine;
+    size:cover;
+    height:100vh;
+    width: 100%;
+}
+
+.heading {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+
+}
+
+.description {
+    font-size: 26px;
+    font-family: "Roboto";
+    color:blueviolet;
+
+}
+
+.description-2 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color:brown;
+
+}
+
+.button {
+    font-size: 26px;
+    font-family: "Roboto";
+    color: #ffffff;
+    border: 0px;
+    
+}
